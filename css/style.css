@@ -1,0 +1,30 @@
+.vulnche_status_img{
+    height: 30px;
+    width: auto;
+    display: inline-block;
+    vertical-align: -7px;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+h2{
+    display: inline-block;
+    text-decoration: underline;
+}
+.vulnche_obj_container{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px 0;
+}
+.vulnche_obj_title{
+    background-color: #DEEDF7;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.vulnche_obj_container ul {
+    display: block;
+    list-style-type: disc;
+    padding-left: 15px;
+}
+.vulnche_obj_container li{
+    margin-bottom: 30px;
+}
